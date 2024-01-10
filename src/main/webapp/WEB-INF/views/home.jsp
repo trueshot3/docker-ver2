@@ -9,10 +9,10 @@
 	<h1>Hello world!</h1>
 	<P>The time on the server is ${serverTime}.</P>
 	<div>
-		<img alt="google logo" src="/ver1-1.0.0-BUILD-SNAPSHOT/resources/google.png">
+		<img alt="google logo" src="/ver2/resources/google.png">
 	</div>
 	<div>
-		<img alt="google logo" src="/ver1-1.0.0-BUILD-SNAPSHOT/asset/google.png">
+		<img alt="google logo" src="/ver2/asset/google.png">
 	</div>
 </body>
 </html>
